@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\bin\Debug\GHristova7_1701.exe.config
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\bin\Debug\GHristova7_1701.exe
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\bin\Debug\GHristova7_1701.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.Form1.resources
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.exe
+C:\Users\gabri\OneDrive\Работен плот\C#\GHristova7_1701\GHristova7_1701\obj\Debug\GHristova7_1701.pdb

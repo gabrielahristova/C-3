@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\Holiday.exe
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\Holiday.deps.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\Holiday.runtimeconfig.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\Holiday.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\Holiday.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\ref\Holiday.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\bin\Debug\net5.0\Holiday.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\ref\Holiday.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\Holiday\Holiday\obj\Debug\net5.0\Holiday.genruntimeconfig.cache
